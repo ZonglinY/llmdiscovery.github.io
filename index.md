@@ -3,7 +3,7 @@ layout: about
 title: Home
 ---
 
-# Safe Generative AI Workshop  @ NeurIPS 2024
+# LLMs for Scientific Discovery Workshop  @ ICML 2026
 ---
 ### <font color="#1e90ff">Date:</font> <font color="#333">December 15, 2024</font>
 ### <font color="#32cd32">Time:</font> 09:00-17:00

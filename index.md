@@ -5,24 +5,24 @@ title: Home
 
 # LLMs for Scientific Discovery Workshop  @ ICML 2026
 ---
-### <font color="#1e90ff">Date:</font> <font color="#333">December 15, 2024</font>
+### <font color="#1e90ff">Date:</font> <font color="#333">July 10, 2026</font>
 ### <font color="#32cd32">Time:</font> 09:00-17:00
-### <font color="#ff6347">Place:</font> Exhibition Hall A, Vancouver Convention Center, Vancouver, Canada
+### <font color="#ff6347">Place:</font> COEX Convention & Exhibition Center, Seoul, South Korea
 ---
 
 ## Introduction
-In recent years, many AI researchers believe that advanced AI systems could potentially put human society at risk, especially if these systems become smarter than humans. Generative models have been the major driving force behind the development of advanced AI in the past two years. This workshop emphasizes AI safety concerns related to the use of generative models in basic machine learning research, scientific discoveries, and industrial/commercial applications. Generative models, including large language models, vision-language models, and diffusion models, have significantly aided various aspects of both academia and industry. In scientific discovery,these aspects encompass experimental design, hypothesis formulation, theoretical reasoning, and observation organization. In commercial applications, generative models such as large language models and diffusion algorithms have changed the lifestyles and workflows of billions around the world. However, these models have raised substantial concerns about potential misuse and negative scientific and social impacts.
+In recent years, the intersection of Artificial Intelligence and the natural sciences has undergone a fundamental paradigm shift. While traditional machine learning excelled at static property prediction, Large Language Models (LLMs) and Agentic AI have emerged as the driving force behind a new era of automated scientific discovery. This workshop emphasizes the methodological advancements—specifically in training strategies and inference-time reasoning—required to transform generic generative models into rigorous scientific agents.
 
-Key concerns include:
-- Generation of harmful or biased content.
-- Vulnerability to adversarial attacks.
-- Privacy and security risks.
-- Bias and fairness issues in generated content.
-- Ethical implications of deploying generative AI.
-- Limited robustness in out-of-distribution contexts.
-- Overconfidence in the reliability of generated content.
+By 2026, the role of AI in science has expanded to cover the full lifecycle of discovery. This workshop explores how agentic frameworks operate across distinct stages of the scientific process: from the Pre-experiment phase (where agents perform inspiration retrieval, knowledge recombination, and hypothesis generation) to the Experiment-guided phase (where agents utilize feedback loops, symbolic regression, and autonomous experimentation for iterative refinement). In these contexts, LLMs are no longer mere text processors but are evolving into reasoning engines capable of planning, symbolic decomposition, and self-correction. However, applying these probabilistic models to immutable scientific laws raises substantial challenges, necessitating novel approaches to bridge the gap between open-ended creativity and rigorous validity.
 
-This workshop aims to convene experts from various fields to address these challenges and explore potential solutions. By emphasizing the development of generative models that have positive social and scientific impacts, the workshop seeks to foster collaboration and discussion. It will provide a platform for academics and industry professionals to exchange recent findings and ideas, thereby enriching the discourse on AI's role in advancing human civilization.
+Key challenges and topics of interest include:
+- **Inference-Time Reasoning & Search**: Techniques to enhance test-time compute for scientific problems (e.g., Tree of Thoughts, Monte Carlo Tree Search) to enable multi-step logical planning and complex experimental design.
+- **Training & Alignment for Science**: Methodologies for Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) that align model outputs with physical constraints, mathematical logic, and experimental feedback.
+- **Agentic Frameworks & Tool Use**: Architectures that support autonomous tool usage (simulators, code interpreters, lab equipment) and memory mechanisms for long-horizon scientific workflows.
+- **Hypothesis Generation & Ranking**: Algorithms for generating novel, high-quality scientific hypotheses and ranking them based on plausibility, novelty, and verifiability.
+- **Benchmarks & Evaluation**: Moving beyond rote memorization to evaluate true reasoning capabilities in out-of-distribution scientific discovery tasks.
+
+This workshop aims to convene experts from machine learning, natural sciences, and automated reasoning to address these challenges. By focusing on the intersection of agentic workflows, advanced inference, and domain-specific training, the workshop seeks to foster collaboration and discussion on building reliable, interpretable AI systems. It will provide a platform for academics and industry professionals to exchange ideas on how to transition from "AI for Science" assistants to fully autonomous "AI Scientists," thereby enriching the discourse on AI's role in advancing human civilization.
 
 ## Program Committee Nominations
 

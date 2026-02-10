@@ -53,7 +53,7 @@ Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page
   {% include people_horizontal.html name="Chandan Reddy" affiliation="Virginia Tech" url="https://creddy.net/" img="assets/img/organizers/chandan-photo.jpg" %}
   {% include people_horizontal.html name="Lidong Bing" affiliation="MiroMind AI" url="https://lidongbing.github.io/" img="assets/img/organizers/lidong-photo.jpeg" %}
   {% include people_horizontal.html name="Erik Cambria" affiliation="Nanyang Technological University" url="https://sentic.net/erikcambria/" img="assets/img/organizers/erik-photo.jpeg" %}
-  {% include people_horizontal.html name="Dianbo Liu" affiliation="National University of Singapore" url="https://www.cogai4sci.com/" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Dianbo Liu" affiliation="National University of Singapore" url="https://www.asintelligence.xyz/" img="assets/img/organizers/dl.jpg" %}
   </div>
 
 <!--## Contact

@@ -35,7 +35,7 @@ Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-      {% include people.html name="James Zou" affiliation="Standord University" url="https://www.james-zou.com/" img="assets/img/speakers/james_zou-photo.jpeg"%}
+      {% include people.html name="James Zou" affiliation="Stanford University" url="https://www.james-zou.com/" img="assets/img/speakers/james_zou-photo.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Mengdi Wang" affiliation="Princeton University" url="https://mwang-delta.vercel.app/" img="assets/img/speakers/mengdi-photo.png"%}

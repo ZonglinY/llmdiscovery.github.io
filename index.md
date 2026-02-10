@@ -28,39 +28,33 @@ This workshop aims to convene experts from machine learning, natural sciences, a
 
 Call for Reviewers: If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/32dmEuJekgrhxzoW8). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
 
-## Submission Guideline
+<!--## Submission Guideline
 
-Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page for detailed guidelines.
+Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page for detailed guidelines.-->
 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-      {% include people.html name="Chelsea Finn" affiliation="Stanford" url="https://ai.stanford.edu/~cbfinn/" img="assets/img/speakers/cf.jpg"%}
+      {% include people.html name="James Zou" affiliation="Standord University" url="https://www.james-zou.com/" img="assets/img/speakers/james_zou-photo.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Dawn Song" affiliation="UC Berkley" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
+      {% include people.html name="Mengdi Wang" affiliation="Princeton University" url="https://mwang-delta.vercel.app/" img="assets/img/speakers/mengdi-photo.png"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Max Tegmark" affiliation="MIT" url="https://physics.mit.edu/faculty/max-tegmark/" img="assets/img/speakers/mt.jpg"%}
-    </div>
-    <div class="col-sm-4">
-      {% include people.html name="Yoshua Bengio" affiliation="Mila, Université de Montréal" url="https://yoshuabengio.org/" img="assets/img/organizers/yb.jpg"%}
+      {% include people.html name="Wanyu Lin" affiliation="Hong Kong Polytechnic University" url="https://wanyu-lin.github.io/" img="assets/img/speakers/wanyu-photo.jpg"%}
     </div>
 
 </div>
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Zonglin Yang" affiliation="MiroMind AI" url="https://zongliny.github.io/" img="assets/img/organizers/zonglin-photo.jpeg" %}
+  {% include people_horizontal.html name="Tingting Chen" affiliation="National University of Singapore" url="https://scholar.google.com/citations?hl=en&user=v6rq6UsAAAAJ" img="assets/img/organizers/tingting-photo.jpeg" %}
+  {% include people_horizontal.html name="Chandan Reddy" affiliation="Virginia Tech" url="https://creddy.net/" img="assets/img/organizers/chandan-photo.jpg" %}
+  {% include people_horizontal.html name="Lidong Bing" affiliation="MiroMind AI" url="https://lidongbing.github.io/" img="assets/img/organizers/lidong-photo.jpeg" %}
+  {% include people_horizontal.html name="Erik Cambria" affiliation="Nanyang Technological University" url="https://sentic.net/erikcambria/" img="assets/img/organizers/erik-photo.jpeg" %}
   {% include people_horizontal.html name="Dianbo Liu" affiliation="National University of Singapore" url="https://www.cogai4sci.com/" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Ling Pan" affiliation="Hong Kong University of Science and
-Technology" url="https://ling-pan.github.io/" img="assets/img/organizers/lp.jpg" %}
-  {% include people_horizontal.html name="Tailin Wu" affiliation="Westlake University" url="https://tailin.org/" img="assets/img/organizers/tw.jpg" %}
-  {% include people_horizontal.html name="Emmanuel Bengio" affiliation="Recursion" url="https://folinoid.com/" img="assets/img/organizers/eb.jpg" %}
-  {% include people_horizontal.html name="Yilun Du" affiliation="MIT" url="https://yilundu.github.io/" img="assets/img/organizers/yd.jpg" %}
-  {% include people_horizontal.html name="Dinghuai Zhang" affiliation=" Microsoft Research" url="https://zdhnarsil.github.io/" img="assets/img/organizers/dz.jpg" %}
-  {% include people_horizontal.html name="Bonaventure F. P. Dossou" affiliation="Mila, McGill University" url="https://bonaventuredossou.github.io/" img="assets/img/organizers/bd.jpg" %}
-  {% include people_horizontal.html name="Yoshua Bengio" affiliation="Mila, Université de Montréal" url="https://yoshuabengio.org/" img="assets/img/organizers/yb.jpg" %}
   </div>
 
-## Contact
-If you have any questions, please contact us at [safe-generative-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
+<!--## Contact
+If you have any questions, please contact us at [safe-generative-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).-->

@@ -38,10 +38,24 @@ Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page
       {% include people.html name="James Zou" affiliation="Stanford University" url="https://www.james-zou.com/" img="assets/img/speakers/james_zou-photo.jpeg"%}
     </div>
     <div class="col-sm-4">
+      {% include people.html name="Marinka Zitnik" affiliation="Harvard University" url="https://zitniklab.hms.harvard.edu/" img="assets/img/speakers/zitnit-photo.jpeg"%}
+    </div>
+    <div class="col-sm-4">
       {% include people.html name="Mengdi Wang" affiliation="Princeton University" url="https://mwang-delta.vercel.app/" img="assets/img/speakers/mengdi-photo.png"%}
+    </div>
+
+</div>
+
+## Panelist
+<div class="row projects pt-1 pb-1">
+    <div class="col-sm-4">
+      {% include people.html name="Chandan Reddy" affiliation="Virginia Tech" url="https://creddy.net/" img="assets/img/organizers/chandan-photo.jpg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Wanyu Lin" affiliation="Hong Kong Polytechnic University" url="https://wanyu-lin.github.io/" img="assets/img/speakers/wanyu-photo.jpg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Ling Pan" affiliation="Hong Kong University of Science and Technology" url="https://ling-pan.github.io/" img="assets/img/speakers/ling-photo.jpeg"%}
     </div>
 
 </div>

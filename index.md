@@ -3,7 +3,7 @@ layout: about
 title: Home
 ---
 
-# LLMs for Scientific Discovery Workshop  @ ICML 2026
+# AI Scientist Workshop  @ ICML 2026
 ---
 ### <font color="#1e90ff">Date:</font> <font color="#333">July 10, 2026</font>
 ### <font color="#32cd32">Time:</font> 09:00-17:00
@@ -64,6 +64,7 @@ Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Zonglin Yang" affiliation="MiroMind AI" url="https://zongliny.github.io/" img="assets/img/organizers/zonglin-photo.jpeg" %}
   {% include people_horizontal.html name="Tingting Chen" affiliation="National University of Singapore" url="https://scholar.google.com/citations?hl=en&user=v6rq6UsAAAAJ" img="assets/img/organizers/tingting-photo.jpeg" %}
+  {% include people_horizontal.html name="Shuzhen Li" affiliation="Princeton University" img="assets/img/organizers/Shuzhen-photo.jpg" %}
   {% include people_horizontal.html name="Chandan Reddy" affiliation="Virginia Tech" url="https://creddy.net/" img="assets/img/organizers/chandan-photo.jpg" %}
   {% include people_horizontal.html name="Lidong Bing" affiliation="MiroMind AI" url="https://lidongbing.github.io/" img="assets/img/organizers/lidong-photo.jpeg" %}
   {% include people_horizontal.html name="Erik Cambria" affiliation="Nanyang Technological University" url="https://sentic.net/erikcambria/" img="assets/img/organizers/erik-photo.jpeg" %}
